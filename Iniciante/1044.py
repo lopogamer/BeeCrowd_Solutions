@@ -1,9 +1,6 @@
 a , b = map(int, input().split())
 def multiplos(a,b):
-    if a % b == 0 or b % a == 0:
-        return True
-    else:
-        return False
+    return bool(a % b == 0 or b % a == 0)
 if multiplos(a,b):
     print("Sao Multiplos")
 else:
