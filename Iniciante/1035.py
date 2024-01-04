@@ -16,6 +16,6 @@ def valor(a,b,c,d):
     
 x = valor(a,b,c,d)
 if x == 1:
-    print(f'Valores aceitos')
+    print('Valores aceitos')
 else:
-    print(f'Valores nao aceitos') 
+    print('Valores nao aceitos') 
