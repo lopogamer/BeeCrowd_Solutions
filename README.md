@@ -86,3 +86,4 @@
 [1155](https://github.com/lopogamer/BeeCrowd_Solutions/blob/main/Iniciante/1155.py)
 [1156](https://github.com/lopogamer/BeeCrowd_Solutions/blob/main/Iniciante/1156.py)
 [1157](https://github.com/lopogamer/BeeCrowd_Solutions/blob/main/Iniciante/1157.py)
+[1158](https://github.com/lopogamer/BeeCrowd_Solutions/blob/main/Iniciante/1158.py)
