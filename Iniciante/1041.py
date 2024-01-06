@@ -1,9 +1,9 @@
 x,y=map(float,input().split())
 def quadrante(x,y):
     if x == 0 and y !=0:
-        return f'Eixo Y'
+        return 'Eixo Y'
     elif y == 0 and x !=0:
-        return f'Eixo X'
+        return 'Eixo X'
     elif (x+y)==0:
         return 'Origem'
     elif x > 0 and y > 0:

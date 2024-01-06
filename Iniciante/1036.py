@@ -17,9 +17,9 @@ def raizes2(a,b,c):
 X1 =  raizes1(a,b,c)
 X2 =  raizes2 (a,b,c)
 if X1 == "Impossivel calcular":
-    print(f'Impossivel calcular')
+    print('Impossivel calcular')
 elif X2 == "Impossivel calcular":
-    print(f'Impossivel calcular')
+    print('Impossivel calcular')
 else:
     X1 = float(X1)    
     X2 = float(X2)
